@@ -19,6 +19,7 @@ Estudante do ensino medio, focado em **Python** e **analise de dados**. Construi
 | Projeto | Descricao | Tecnologias |
 |---|---|---|
 | [Pace Tracker](https://github.com/cauafdev/pace-tracker) | Chatbot inteligente de corrida com IA local, calculadora de pace e persistencia em JSON | Python, Ollama, JSON, Regex |
+| [Python Foundations](https://github.com/cauafdev/python-foundations) | 8 projetos progressivos para dominar logica de programacao — de scripts basicos a sistemas interativos | Python |
 
 ### GitHub Stats
 
