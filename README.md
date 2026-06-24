@@ -18,6 +18,7 @@ Estudante do ensino medio, focado em **Python** e **analise de dados**. Construi
 
 | Projeto | Descricao | Tecnologias |
 |---|---|---|
+| [EduScore Chat](https://github.com/cauafdev/eduscore-chat) | Chatbot educacional com arquitetura em camadas para analise de desempenho escolar — 30+ funcionalidades de analise de dados | Python, JSON, Regex, Ollama |
 | [Pace Tracker](https://github.com/cauafdev/pace-tracker) | Chatbot inteligente de corrida com IA local, calculadora de pace e persistencia em JSON | Python, Ollama, JSON, Regex |
 | [Python Foundations](https://github.com/cauafdev/python-foundations) | 8 projetos progressivos para dominar logica de programacao — de scripts basicos a sistemas interativos | Python |
 
